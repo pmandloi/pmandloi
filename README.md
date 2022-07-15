@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmandloi&label=Profile%20views&color=0e75b6&style=flat" alt="pmandloi" /> </p>
 
-- 🌱 I’m currently learning **Kotlin, Low Level Design**
+- 🌱 I’m currently learning **Kotlin, Low Level Design, Design Pattern**
 
 - 📫 How to reach me **praveenmandloi2007@gmail.com**
 
